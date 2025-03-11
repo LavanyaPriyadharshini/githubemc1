@@ -3,3 +3,5 @@
 this is test3.txt file
 
 //when ever you give add contents here , the file changes to "M" which means modified
+
+here i modified this 3rd line from the git folder 
