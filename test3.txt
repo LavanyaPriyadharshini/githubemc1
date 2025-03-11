@@ -2,4 +2,10 @@
 
 this is test3.txt file
 
+<<<<<<< HEAD
 //when ever you give add contents here , the file changes to "M" which means modified, 
+=======
+//when ever you give add contents here , the file changes to "M" which means modified
+
+here i modified this 3rd line from the git folder .
+>>>>>>> 26b16d8c578ba669882b724f49b16ba69f179fce
